@@ -1,9 +1,9 @@
 {
 
-    "OWNER_ID":"",
+    "OWNER_ID":"862923345996808233",
     "BOT_TOKEN": "",
     "tenorAPI":"ZEEELJXAFQBN",
-    "DEFAULT_PREFIX":"!",
-    "mongoPass": "",
-    "ERROR_LOGS_CHANNEL": ""
+    "DEFAULT_PREFIX":"p!",
+    "mongoPass": "mongodb+srv://AB:AB@cluster0.fgnwt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "ERROR_LOGS_CHANNEL": "867976300848119888"
 }
