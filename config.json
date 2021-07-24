@@ -1,9 +1,9 @@
 {
 
     "OWNER_ID":"862923345996808233",
-    "BOT_TOKEN": "",
+    "BOT_TOKEN": "NzQ5OTAxNjQ3ODk5MTMxOTg1.X0yuVQ.rQsgY485gENlqQ4tNL-4oijMa-8",
     "tenorAPI":"ZEEELJXAFQBN",
     "DEFAULT_PREFIX":"p!",
-    "mongoPass": "mongodb+srv://AB:AB@cluster0.fgnwt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "mongoPass": "mongodb+srv://ak99:AKPMKP1@cluster0.zpwlk.mongodb.net/",
     "ERROR_LOGS_CHANNEL": "867976300848119888"
 }
